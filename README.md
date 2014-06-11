@@ -1,0 +1,4 @@
+smaugareas
+==========
+
+SMAUG Areas
