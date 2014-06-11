@@ -1,4 +1,4 @@
-smaugareas
+SMAUG Areas
 ==========
 
-SMAUG Areas
+SMAUG Area Files
